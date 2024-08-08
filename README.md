@@ -93,8 +93,11 @@ Role: Manages the BDD setup for Cucumber.
 Responsibilities:
 Load feature files that define test scenarios.
 Bind feature steps to the corresponding step definitions.
-Components:
-Feature Files: Define the behavior in Gherkin language (e.g., login.feature).
+
+**Components:
+Feature Files: **
+
+Define the behavior in Gherkin language (e.g., login.feature).
 Glue Code: Cucumber uses the glue parameter to find the step definitions.
 Execution Flow:
 
