@@ -96,7 +96,7 @@ Bind feature steps to the corresponding step definitions.
 
 Components:
 
-**Feature Files: **
+**Feature Files**
 
 Define the behavior in Gherkin language (e.g., login.feature).
 Glue Code: Cucumber uses the glue parameter to find the step definitions.
